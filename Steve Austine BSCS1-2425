@@ -1,0 +1,22 @@
+# inclui< iostream>
+using namespace std;
+
+int main()
+}
+string stringText "Grades;"
+int A = 80;
+int B = 90;
+int C = 95;
+int E = A + B + C + D;
+FloatY = 4;
+FloatZ =E/Y;
+
+cout << "Grades;"<< endl;
+cout << " Prelim;"<< A << endl;
+cout << " Midterm;"<< B << endl;
+cout << " Prefinal;"<< C << endl;
+cout << " Final;"<< D << endl;
+cout << " Average;"<< Z << endl;
+
+return 0;
+}
